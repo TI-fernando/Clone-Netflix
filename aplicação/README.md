@@ -7,3 +7,4 @@ Clonando a plataforma Netflix com o uso de JavaScript puro e API sendo consumida
 - CSS
 - JavaScript Puro
 - API'S
+- Conseitos de GIT
